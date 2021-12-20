@@ -9,4 +9,9 @@ To begin the map-making process, I used GPS features within GoogleMaps to collec
 After collecting the coordinate points, I input the latitudes as well as longitudes in Excel and then uploaded the file into QGIS. First, I hovered over the layer option within QGIS, clicked on "Add Layer," and then proceeded to click on "Add Delimited Text Layer."
 
 ![delimited](graphics/delimited.png)
-*Adding a layer in QGIS*
+*Adding a Layer in QGIS*
+
+From there, I set the CRS to EPSG: 3089 - NAD83/Kentucky Single Zone (ftUS) to make sure that the coordinate points matched up as closely as possible. I also set the file format as a CSV and made sure to define the geometry in terms of point coordinates.
+
+![example](graphics/csv.png)
+*Defining CRS & Coordinates*
