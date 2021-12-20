@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "uky_campus_2",
+"features": [
+{ "type": "Feature", "properties": { "Latitude": 38.0386494, "Longitude": -84.5041789 }, "geometry": { "type": "Point", "coordinates": [ -84.5041789, 38.0386494 ] } },
+{ "type": "Feature", "properties": { "Latitude": 38.0398461, "Longitude": -84.5029246 }, "geometry": { "type": "Point", "coordinates": [ -84.5029246, 38.0398461 ] } },
+{ "type": "Feature", "properties": { "Latitude": 38.0362878, "Longitude": -84.5064256 }, "geometry": { "type": "Point", "coordinates": [ -84.5064256, 38.0362878 ] } },
+{ "type": "Feature", "properties": { "Latitude": 38.0375976, "Longitude": -84.503285 }, "geometry": { "type": "Point", "coordinates": [ -84.503285, 38.0375976 ] } },
+{ "type": "Feature", "properties": { "Latitude": 38.0366757, "Longitude": -84.5083531 }, "geometry": { "type": "Point", "coordinates": [ -84.5083531, 38.0366757 ] } },
+{ "type": "Feature", "properties": { "Latitude": 38.0328239, "Longitude": -84.5017887 }, "geometry": { "type": "Point", "coordinates": [ -84.5017887, 38.0328239 ] } }
+]
+}
