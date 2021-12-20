@@ -6,3 +6,7 @@ To begin the map-making process, I used GPS features within GoogleMaps to collec
 
 ## Step 2: Input Into QGIS
 
+After collecting the coordinate points, I input the latitudes as well as longitudes in Excel and then uploaded the file into QGIS. First, I hovered over the layer option within QGIS, clicked on "Add Layer," and then proceeded to click on "Add Delimited Text Layer."
+
+![delimited](graphics/delimited)
+*Adding a layer in QGIS*
